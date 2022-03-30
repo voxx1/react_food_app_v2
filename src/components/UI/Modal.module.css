@@ -30,7 +30,7 @@
 
 @media (max-width: 420px) {
     .modal {
-        top: 12vh !important;
+        top: 5vh !important;
     }
 }
 
