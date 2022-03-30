@@ -28,9 +28,9 @@
     }
 }
 
-@media (max-width: 370px) {
+@media (max-width: 420px) {
     .modal {
-        top: 15vh !important;
+        top: 12vh !important;
     }
 }
 
