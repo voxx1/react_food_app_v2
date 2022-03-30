@@ -42,6 +42,7 @@ const Cart = (props) => {
 
         });
         const data = await response.json();
+        console.log(data)
         setFormSubmited(true)
         ctx.clearCart();
     }
