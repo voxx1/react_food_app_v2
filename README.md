@@ -1,4 +1,4 @@
-App created for ordering meals, and sending data to firebase database. # [LIVE VERSION](https://poetic-klepon-9b32c1.netlify.app/)
+App created for ordering meals, and sending data to firebase database. [LIVE VERSION](https://poetic-klepon-9b32c1.netlify.app/)
 
 # Getting Started with Create React App
 
